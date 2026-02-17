@@ -1,4 +1,5 @@
 class Solution {
+    //Saijyothi
     public List<String> readBinaryWatch(int num) {
         List<String> result = new ArrayList<>();
         
